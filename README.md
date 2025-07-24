@@ -20,7 +20,7 @@ This project explores core computer science concepts such as **graph traversal**
 
 - **Language:** C++  
 - **Concepts:** Graph Theory, BFS (Breadth-First Search), Game AI  
-- **Tools:** Standard C++ libraries, IDE of choice (e.g., Code::Blocks, Visual Studio)
+- **Tools:** Standard C++ libraries, IDE of choice (Visual Studio)
 
 ---
 
@@ -29,7 +29,7 @@ This project explores core computer science concepts such as **graph traversal**
 This game was developed as part of a university assignment focused on algorithmic problem-solving. The goal was to apply **Breadth-First Search** in a real-world scenario — enabling ghosts to find the shortest path to the player in a grid-based environment.
 
 This pathfinding approach is widely used in:
-- GPS navigation systems (e.g., Google Maps, Waze)
+- GPS navigation systems (Waze)
 - Robotics and motion planning
 - Multiplayer and AI-driven games
 
